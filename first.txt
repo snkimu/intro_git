@@ -5,7 +5,10 @@ Gitにプッシュします。
 git add ファイル名（「.」とすると複数の追加）
 
 # ローカルリポジトリへ追加→その後Vimでの操作
-git commit
+git commit （「-v」とすると変更箇所が見える）
 
 # 削除
 git rm
+
+# 変更の確認
+git status
