@@ -12,3 +12,6 @@ git rm
 
 # 変更の確認
 git status
+
+# 変更差分の確認
+git diff
